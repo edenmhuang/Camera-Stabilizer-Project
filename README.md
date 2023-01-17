@@ -12,7 +12,7 @@
 
 <h4>Adafruit BusIO 1.14.1</h4>
 
-[link]([https://github.com/adafruit/Adafruit_Sensor/releases/tag/1.1.7](https://github.com/adafruit/Adafruit_BusIO/releases/tag/1.14.1))
+[link](https://github.com/adafruit/Adafruit_BusIO/releases/tag/1.14.1)
 
 <h2> Goal </h2>
 <p></p>
