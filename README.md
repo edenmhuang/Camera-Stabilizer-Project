@@ -6,6 +6,7 @@
 [Adafruit Unified Sensor 1.1.7](https://github.com/adafruit/Adafruit_Sensor/releases/tag/1.1.7)
 
 
+[jiji](https://github.com/adafruit/Adafruit_Sensor/releases/tag/1.1.7)
 <h2> Goal </h2>
 <p></p>
 
