@@ -1,9 +1,9 @@
 # Camera-Stabilizer-Project
 
 <h2> Libraries </h2>
-  [Adafruit BusIO 1.14.1](https://github.com/adafruit/Adafruit_BusIO/releases/tag/1.14.1)
-  [Adafruit MPU6050 2.0.5](https://github.com/adafruit/Adafruit_MPU6050/releases/tag/2.0.5)
-  [Adafruit Unified Sensor 1.1.7](https://github.com/adafruit/Adafruit_Sensor/releases/tag/1.1.7)
+[Adafruit BusIO 1.14.1](https://github.com/adafruit/Adafruit_BusIO/releases/tag/1.14.1)
+[Adafruit MPU6050 2.0.5](https://github.com/adafruit/Adafruit_MPU6050/releases/tag/2.0.5)
+[Adafruit Unified Sensor 1.1.7](https://github.com/adafruit/Adafruit_Sensor/releases/tag/1.1.7)
 
 
 <h2> Goal </h2>
