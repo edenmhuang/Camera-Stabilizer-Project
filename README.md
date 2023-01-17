@@ -16,7 +16,7 @@
 </ul>
 </b>
 
-<h2> Libraries </h2>
+<h2> Arduino Libraries </h2>
 
 <h4> Adafruit MPU6050 2.0.5 </h4> 
 
