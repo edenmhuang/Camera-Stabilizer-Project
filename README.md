@@ -2,11 +2,11 @@
 
 <h2> Libraries </h2>
 
-<h3>Adafruit MPU6050 2.0.5</h3>
+<h4>Adafruit MPU6050 2.0.5</h4>
 
 [link](https://github.com/adafruit/Adafruit_MPU6050/releases/tag/2.0.5)
 
-<h3>Adafruit Unified Sensor 1.1.7</h3>
+<h4>Adafruit Unified Sensor 1.1.7</h4>
 
 [link](https://github.com/adafruit/Adafruit_Sensor/releases/tag/1.1.7)
 
