@@ -6,6 +6,9 @@
 <h2> Why do we need that? </h2>
 <p> Nowadays, people take a lot of videos, and one of the problems they are having is unstable footage, so having a camera stabilizer would help to prevent that problem. </p>
 
+<h2> How it works </h2>
+<p></p>
+
 <h2> Requirements </h2>
 <p></p>
 <b>
