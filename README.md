@@ -7,7 +7,7 @@
 <p> Nowadays, people take a lot of videos, and one of the problems they are having is unstable footage, so having a camera stabilizer would help to prevent that problem. </p>
 
 <h2> How it works </h2>
-<p></p>
+<p> Accelorimeter sensor has been used to detect orientation of the holder. Once there's a change of orientation detected, the motor will recieve a signal from the sensor, and the motor would rotate the opposite way, so the holder would stay on its neutral orientation. Ex. If the camera holder rotates 90 degrees angle to the right, the motor would rotate 90 degrees angle to the left.</p>
 
 <h2> Requirements </h2>
 <p></p>
