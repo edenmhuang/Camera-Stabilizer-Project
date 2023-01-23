@@ -7,7 +7,13 @@
 <p> Nowadays, people take a lot of videos, and one of the problems they are having is unstable footage, so having a camera stabilizer would help to prevent that problem. </p>
 
 <h2> How it works </h2>
-<p> Accelorimeter sensor has been used to detect orientation of the holder. Once there's a change of orientation detected, the motor will recieve a signal from the sensor, and the motor would rotate the opposite way, so the holder would stay on its neutral orientation. Ex. If the camera holder rotates 90 degrees angle to the right, the motor would rotate 90 degrees angle to the left.</p>
+<p> Accelorimeter and gyroscope sensor has been used to detect orientation of the holder. Once there's a change of orientation detected, the motor will recieve a signal from the sensor, and the motor would rotate the opposite way, so the holder would stay on its neutral orientation. Ex. If the camera holder rotates 90 degrees angle to the right, the motor would rotate 90 degrees angle to the left.</p>
+
+<h2> What is Accelorimeter Sensor? </h2>
+<p> A device that allows you to measure and analyze linear and angular acceleration. For example, it can detect seismic activity(earthquakes) or when you flip your phone from vertical to horizontal. </p>
+
+<h2> What is Gyroscope Sensor? </h2>
+<p> Gyroscope is used to measure the deviation (action) of an object from its desired orientation. We can also say it maintains an object's orientation.</p>
 
 <h2> Requirements </h2>
 <p></p>
