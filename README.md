@@ -1,5 +1,7 @@
 # Camera-Stabilizer-Project
 
+![image0](https://user-images.githubusercontent.com/67295949/215635162-d72d9b1f-977e-4166-8b2c-076d7577970e.gif)
+
 <h2> Goal </h2>
 <p> A phone holder that could eliminate any undesired movement of a camera while recording a video. </p>
 
